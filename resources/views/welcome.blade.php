@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    ลงทะเบียนกันเถอะ <br> กด Register เลยยยย
                 </div>
 
                 <div class="links">
